@@ -1,1 +1,1 @@
-# maven_training_3
+# maven_training_2
